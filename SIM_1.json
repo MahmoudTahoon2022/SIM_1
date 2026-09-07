@@ -1,8 +1,8 @@
 {
   "devices": {
     "SIM_1": {
-      "version": "1.5",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/SIM_1/main/1.5.bin",
+      "version": "1.6",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/SIM_1/main/1.6.bin",
       "force": false
     }
   }
